@@ -1,106 +1,228 @@
-# Favour Ebhohimhen | Personal Portfolio
 
-Welcome to my personal portfolio repository!
+<div align="center">
 
-I am **Favour Ebhohimhen**, a passionate Web Developer, Backend Developer, and Data Analyst with a background in Computer Science. I am enthusiastic about developing innovative digital solutions, building functional web applications, and transforming raw data into meaningful insights that support business decisions.
+<img src="assets/workspace.jpg" width="180" alt="Chris Favour Developer Workspace">
 
-This repository showcases my technical skills, professional interests, development projects, and continuous journey in technology.
+# CHRIS FAVOUR
+
+### Web Developer | Backend Engineer | Data Analyst
+
+**Building Digital Solutions · Engineering Applications · Transforming Data into Insights**
+
+<p>
+<a href="https://github.com/chris-favour49">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:chrisfavour49@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/chris-favour49">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-I am a results-driven technology professional with experience and interest in web development, backend engineering, database management, and data analytics.
+Hello! I am **Chris Favour**, a Computer Science graduate, Web Developer, Backend Engineer and Data Analyst passionate about building technology-driven solutions.
 
-My goal is to leverage technology to solve real-world problems, improve business processes, and create efficient digital experiences.
+I specialise in developing responsive web applications, designing backend systems, managing databases and transforming complex datasets into meaningful business insights.
 
-I enjoy learning new technologies, collaborating with other professionals, and taking on challenging projects that expand my technical knowledge.
+My approach combines technical knowledge, creativity, analytical thinking and problem-solving to develop solutions that address real-world challenges.
+
+I am committed to continuous learning, professional growth and contributing to innovative technology projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ TECHNOLOGIES & TOOLS
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- PHP
-- Laravel
+### Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
 ### Backend Development
-- PHP and Laravel
-- REST API Development
-- Application Logic
-- Database Integration
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge">
+</p>
 
 ### Database Management
-- MySQL
-- SQL
-- Database Design and Management
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
 
 ### Data Analytics
-- Python
-- Microsoft Excel
-- Power BI
-- Tableau
-- Data Cleaning and Transformation
-- Data Visualisation and Reporting
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+</p>
 
 ---
 
-## 🚀 Areas of Specialisation
+## 🚀 FEATURED PROJECTS
 
-- Responsive Website Development
-- Backend Web Application Development
-- Database Design and Management
-- Data Analytics and Business Intelligence
-- Data Visualisation and Reporting
-- Business Process Automation
-- Software Development and Problem Solving
+Here are some of my development projects, demonstrating my experience in application development, backend engineering, database management and system design.
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🚚 Shipping & Logistics Management
+
+<a href="https://github.com/chris-favour49/shipping">
+<img src="assets/shipping.jpg" width="100%" alt="Shipping and Logistics Project">
+</a>
+
+A Laravel-based shipping and logistics application demonstrating backend development, database integration and digital management of shipping operations.
+
+**Technologies**
+
+`Laravel 12` `PHP` `JavaScript`
+
+<a href="https://github.com/chris-favour49/shipping">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🎓 Result Management Application
+
+<a href="https://github.com/chris-favour49/result-app">
+<img src="assets/results.jpg" width="100%" alt="Result Management Project">
+</a>
+
+An academic result management application demonstrating student performance administration, role permissions, Excel data import and PDF generation.
+
+**Technologies**
+
+`Laravel 8` `React` `PHP` `Bootstrap`
+
+<a href="https://github.com/chris-favour49/result-app">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📚 E-Library Management System
+
+<a href="https://github.com/chris-favour49/e-library-system">
+<img src="assets/elibrary.jpg" width="100%" alt="E-Library Management Project">
+</a>
+
+A Laravel-powered library management application demonstrating authentication, user roles, permissions, database migrations and backend application architecture.
+
+**Technologies**
+
+`Laravel 11` `PHP` `SQLite`
+
+<a href="https://github.com/chris-favour49/e-library-system">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 📅 Timetable Management System
+
+<a href="https://github.com/chris-favour49/Timetable-Management-System">
+<img src="assets/timetable.jpg" width="100%" alt="Timetable Management Project">
+</a>
+
+An academic scheduling application supporting timetable creation, modification, Excel imports, clash-free scheduling, SMS alerts and PDF generation.
+
+**Technologies**
+
+`PHP` `JavaScript` `Excel` `jsPDF`
+
+<a href="https://github.com/chris-favour49/Timetable-Management-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+## 💡 AREAS OF EXPERTISE
 
-This portfolio repository serves as a central platform for showcasing my development projects, technical capabilities, and professional achievements.
-
-Explore my GitHub repositories to discover projects involving web development, application development, database management, and data analytics.
-
-**Explore my repositories:**  
-https://github.com/chris-favour49
+| Area | Specialisation |
+|---|---|
+| Web Development | Responsive websites and web applications |
+| Backend Engineering | Laravel, PHP and API development |
+| Database Management | MySQL, SQL and relational databases |
+| Data Analytics | Data cleaning, transformation and reporting |
+| Business Intelligence | Power BI, Excel and Tableau |
+| Software Development | Application architecture and problem solving |
 
 ---
 
-## 🎯 Professional Goals
+## 🎯 PROFESSIONAL OBJECTIVES
 
-I am committed to continuous professional development and strive to:
-
-- Build scalable and user-friendly digital solutions.
-- Develop efficient backend systems and applications.
-- Apply data analytics to solve business challenges.
-- Improve my knowledge of emerging technologies.
+- Build scalable and user-friendly web applications.
+- Develop secure and efficient backend systems.
+- Transform business data into actionable insights.
+- Improve operational processes through technology.
 - Collaborate with innovative teams and organisations.
-- Contribute meaningfully to technology-driven projects.
+- Continue expanding my technical and professional capabilities.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 LET'S CONNECT
 
-I am open to professional opportunities, collaborations, networking, and exciting technology projects.
+I am open to professional opportunities, collaborations, freelance projects and technology-driven partnerships.
 
-**GitHub:**  
-https://github.com/chris-favour49
+<div align="center">
 
-**Email:**  
-chrisfavour49@gmail.com
+<a href="mailto:chrisfavour49@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/chris-favour49">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/chris-favour49">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+**Email:** chrisfavour49@gmail.com
+
+**Location:** Nigeria
 
 ---
 
-## ⭐ Thank You for Visiting!
+### ⭐ THANK YOU FOR VISITING MY PORTFOLIO!
 
-Thank you for taking the time to explore my portfolio.
+*Building Solutions. Engineering Possibilities. Creating Impact.*
 
-Feel free to explore my repositories, review my projects, and connect with me.
-
-**Building Solutions. Analysing Data. Creating Impact.**
+</div>
